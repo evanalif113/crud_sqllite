@@ -45,6 +45,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:textSize="40px"
+        android:background="#4CAF50"
         android:text="Update Course"
         android:textAllCaps="false" />
 
@@ -54,6 +57,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:textSize="40px"
+        android:background="#4CAF50"
         android:text="Delete Course"
         android:textAllCaps="false" />
 
