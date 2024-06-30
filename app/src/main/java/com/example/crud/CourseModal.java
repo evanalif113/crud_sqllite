@@ -10,10 +10,12 @@ public class CourseModal {
     private int id;
 
     // creating getter and setter methods
-    public String getCourseName() { return courseName; }
+    public String getCourseName() {
+        return courseName; }
 
     public void setCourseName(String courseName)
     {
+
         this.courseName = courseName;
     }
 
